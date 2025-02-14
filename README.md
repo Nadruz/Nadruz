@@ -6,7 +6,7 @@
   
   <div align="center">  
   
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefelipebarros&layout=compact&hide_border=true&title_color=ffde21&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadruz&layout=compact&hide_border=true&title_color=ffde21&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ### Main Skills
