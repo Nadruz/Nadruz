@@ -1,6 +1,6 @@
 <div align = center>
 
-### 💛 Hi there 💛
+### ˚₊‧ Hi There .ᐟ ໒꒱ ‧₊˚
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffde21&size=35&center=true&vCenter=true&width=1000&lines=Pleasure,+my+name+is+Juliana+Nadruz;I+Have+20+years+old;I'm+from+Brazil,+RJ;Welcome!+:%29)](https://git.io/typing-svg)
   
@@ -38,15 +38,16 @@
 
 <details align="left">
   <summary></summary> 
- 
-  - 🔭 I am currently working on my development at the University
-  - 🌱 I am currently learning Logic Computer
-  - **📫 Professional email:** `juliananadruz@gmail.com`
-  - **Discord:** `@jujuzao`
-  - 👨🏻‍💻 Studying JavaScript at moment.
-  - ✨ Currently working at a bank.
- 
-  <div align="right">Made with 💛 by <a href="https://github.com/Nadruz">NADRUZ</a>.</div>
+ . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+  
+˖ ࣪⊹ I am currently working on my development at the University ˖ ࣪⊹
+˖ ࣪⊹ Currently focused on **Data Analysis** ˖ ࣪⊹
+˖ ࣪⊹ Analyzing data, building **dashboards** and visualizations ˖ ࣪⊹
+˖ ࣪⊹ Working with Python (Pandas, NumPy, Openpyxl) for data processing and analysis ˖ ࣪⊹
+˖ ࣪⊹ **Professional email:** `juliananadruz@gmail.com` ˖ ࣪⊹
+
+  . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+  <div align="right">Made with ❤︎ by <a href="https://github.com/Nadruz">NADRUZ</a>.</div>
 
 </details>
 <!--
@@ -54,12 +55,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+
+˖ ࣪⊹ I am currently working on ...
+˖ ࣪⊹ Currently focused on ...
+˖ ࣪⊹ Analyzing data ...
+˖ ࣪⊹ Working with ...
+˖ ࣪⊹ **Professional email:**  ...
+
+ . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 -->
