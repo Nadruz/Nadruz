@@ -18,8 +18,6 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Pleasure,+my+name+is+Juliana+Nadruz;I+Have+20+years+old;I'm+from+Brazil,+RJ;Welcome!+:%29)](https://git.io/typing-svg)
-
 <!-- <div>
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
